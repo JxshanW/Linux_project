@@ -17,3 +17,12 @@ Executes the script, which performs all the steps below automatically.
 
 -->ls -lh archive.tar.gz - to display the size and details of archive.tar.gz, confirming successful compression.
 
+![image](https://github.com/user-attachments/assets/34f06186-9f7d-40a9-a58a-ae11da29419b)
+![image](https://github.com/user-attachments/assets/8797a5f8-d7b8-47f8-a525-cd837f2b4670)
+![image](https://github.com/user-attachments/assets/adee2a4e-2ab2-485d-9f4e-7e91ffd8587f)
+![image](https://github.com/user-attachments/assets/3d5b18f0-4e79-42bb-be83-ae5b2a1fa0c3)
+![image](https://github.com/user-attachments/assets/54277897-6c6d-47e0-9c2e-ff1eb083b335)
+
+
+
+
